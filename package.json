@@ -1,0 +1,26 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@extra/recaptcha": "^4.2.1-next.616",
+    "aws-sdk": "^2.985.0",
+    "axios": "^0.21.4",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.5",
+    "pdf2json": "^2.0.1",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "random-useragent": "^0.5.0",
+    "safe-eval": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
